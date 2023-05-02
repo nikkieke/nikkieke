@@ -17,7 +17,7 @@ I am very passionate about tech and it's endless possibilities!
 <a href="mailto:nikkieke001@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95222620/235796729-3c165b35-1778-4be1-92cf-740c92b6371b.svg" alt="" height="30" width="40" /></a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkieke&show_icons=true&locale=en&layout=compact" alt="nikkieke" />
-<img src="https://github-readme-stats.vercel.app/api?username=nikkieke&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
 
 
 
