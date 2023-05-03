@@ -8,7 +8,7 @@ I am very passionate about tech and it's endless possibilities!
 
 :computer: I build mobile applications with flutter and dart.
 
-:pencil: I write technical focused articles, for developer communities.
+:pencil: I write technical focused articles, for technical and non-technical audiences.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
