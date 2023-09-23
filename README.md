@@ -1,14 +1,17 @@
 <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi, I'm Nikki</h3>
+<h3 align="left">Mobile App Developer: Flutter || Dart || Kotlin </h3>
+  
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/95222620/235794428-f033b448-786a-47ec-8e33-5c3801e77360.gif" height="300"/>
+  <img src=https://github.com/nikkieke/nikkieke/assets/95222620/e50c07b7-97c9-4f2d-86c1-9386f60c751a"/>
 </div> 
 <img src="https://komarev.com/ghpvc/?username=nikkieke&color=545ff2" width="100">
 
-I am very passionate about tech and it's endless possibilities!
+:computer: Holding conversations with software via programming. 
 
-:computer: I build mobile applications with flutter and dart.
+🛠 Building and breaking stuff. 
 
-:pencil: I write technical focused articles, for technical and non-technical audiences <a href=https://clouds.hashnode.dev/>here</a>.
+:pencil: teaching some of what I have learnt on my <a href=https://clouds.hashnode.dev/>blog</a>.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
