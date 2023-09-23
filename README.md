@@ -3,9 +3,10 @@
 Mobile App Developer: Flutter || Dart || Kotlin
   
 <div id="header" align="center">
-  <img src=https://github.com/nikkieke/nikkieke/assets/95222620/e50c07b7-97c9-4f2d-86c1-9386f60c751a"/>
+  <img src=https://github.com/nikkieke/nikkieke/assets/95222620/34bd8343-8143-4d01-84cf-e412144cdac3"/>
 </div> 
 <img src="https://komarev.com/ghpvc/?username=nikkieke&color=545ff2" width="100">
+
 
 :computer: Holding conversations with software via programming. 
 
