@@ -1,5 +1,6 @@
-<h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi, I'm Nikki</h3>
-<h3 align="left">Mobile App Developer: Flutter || Dart || Kotlin </h3>
+# Hi, I'm Nikki!
+
+Mobile App Developer: Flutter || Dart || Kotlin
   
 <div id="header" align="center">
   <img src=https://github.com/nikkieke/nikkieke/assets/95222620/e50c07b7-97c9-4f2d-86c1-9386f60c751a"/>
@@ -13,7 +14,7 @@
 :pencil: teaching some of what I have learnt on my <a href=https://clouds.hashnode.dev/>blog</a>.
 
 
-<h3 align="left">Connect with me:</h3>
+Connect with me:
 <p align="left">
 <a href="https://twitter.com/nikki_eke" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95222620/235796088-68b58c83-8a81-487c-88f2-f6d10e561190.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nkechi-eke-software-developer/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95222620/235796449-7f7f36da-aa1f-42dc-9ff3-c058be20676c.svg" alt="" height="30" width="40" /></a>
