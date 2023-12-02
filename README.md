@@ -12,7 +12,7 @@ Mobile App Developer: Flutter || Dart || Kotlin
 
 🛠 Breaking and building stuff. 
 
-:pencil: teaching some of what I have learnt on my <a href=https://clouds.hashnode.dev/>blog</a>.
+:pencil: sharing some of what I have learnt on my <a href=https://clouds.hashnode.dev/>blog</a>.
 
 
 # Connect with me:
