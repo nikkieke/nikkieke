@@ -3,7 +3,7 @@
 Mobile App Developer: Flutter || Dart || Kotlin
   
 <div id="header" align="center">
-  <img src=https://github.com/nikkieke/nikkieke/assets/95222620/34bd8343-8143-4d01-84cf-e412144cdac3"/>
+  <img src=https://github.com/nikkieke/nikkieke/assets/95222620/e9448241-3b60-4123-b433-4d14377f95fd"/>
 </div> 
 
 
