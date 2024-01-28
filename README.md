@@ -1,6 +1,6 @@
-# Hi, I'm Nikki...
+# Hi, I'm Nikki..
 
-Mobile App Developer: Flutter || Dart || Kotlin
+Mobile App Developer: Flutter || Dart
   
 <div id="header" align="center">
   <img src=https://github.com/nikkieke/nikkieke/assets/95222620/e9448241-3b60-4123-b433-4d14377f95fd"/>
