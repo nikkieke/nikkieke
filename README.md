@@ -1,4 +1,4 @@
-# Hi, I'm Nikki...
+# Hi, I'm Nikki..
 
 Mobile App Developer: Flutter || Dart
   
