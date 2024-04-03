@@ -8,11 +8,11 @@ Mobile Engineer: Flutter || Dart
 
 
 
-:computer: Holding conversations with software via programming. 
+:computer: Holding conversations with software via programming
 
-🛠 Breaking and building stuff. 
+🛠 Breaking and building stuff
 
-:pencil: sharing some of what I have learnt on my <a href=https://clouds.hashnode.dev/>blog</a>.
+:pencil: sharing some of what I have learnt on my <a href=https://clouds.hashnode.dev/>blog</a>
 
 
 # Connect with me:
