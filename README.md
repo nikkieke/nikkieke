@@ -4,7 +4,7 @@
 - ✍🏽 I [write](https://clouds.hashnode.dev/) about developer tools, platforms, and what I learn along the way  
 - 🎙 I share what I know through speaking and teaching 
 - ⚙️ Interested in technologies, platforms, and systems  
-- 📚 Fun fact: I enjoy a good story - and I also know how to tell one
+- 📚 Fun fact: I always enjoy a good story - and I also know how to tell one
 
 
 
