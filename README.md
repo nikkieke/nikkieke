@@ -1,19 +1,10 @@
-# Hi, I'm Nikki...
+# Hi there, I’m Nikki 👋
 
-Mobile Engineer: Flutter || Dart
-  
-<div id="header" align="center">
-  <img src=https://github.com/nikkieke/nikkieke/assets/95222620/e9448241-3b60-4123-b433-4d14377f95fd"/>
-</div> 
-
-
-
-:computer: Holding conversations with software via code
-
-🛠 Breaking and building stuff!
-
-:pencil: sharing some of what I have learnt on my <a href=https://clouds.hashnode.dev/>blog</a>
-
+- 🛠 I build software and explore things I’m curious about  
+- ✍🏽 I [write](https://clouds.hashnode.dev/) about developer tools, platforms, and what I learn along the way  
+- 🎙 I share what I know through speaking and teaching 
+- ⚙️ Interested in technologies, platforms, and systems  
+- 📚 Fun fact: I enjoy a good story - and I also know how to tell one
 
 # Connect with me:
 <p align="left">
