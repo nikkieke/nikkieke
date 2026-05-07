@@ -1,10 +1,10 @@
 # Hi there, I’m Nikki 👋
 
-- 🛠 I build software and explore things I’m curious about  
+- 🛠 Software Engineer focused on Flutter, Dart, Swift, Kotlin, and mobile platforms
+- 🎨 Interested in animations, developer tools, systems, and native mobile internals 
 - ✍🏽 I [write](https://clouds.hashnode.dev/) about developer tools, platforms, and what I learn along the way  
-- 🎙 I share what I know through speaking and teaching 
-- ⚙️ Interested in technologies, platforms, and systems  
-- 📚 Fun fact: I always enjoy a good story - and I also know how to tell one
+- 🎙 I share what I know through speaking and teaching, and community events
+- 📚 Fun fact: I enjoy good stories - and I enjoy telling them too
 
 
 
